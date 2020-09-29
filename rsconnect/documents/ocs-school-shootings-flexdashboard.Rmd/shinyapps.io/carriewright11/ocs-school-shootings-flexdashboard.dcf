@@ -1,0 +1,12 @@
+name: ocs-school-shootings-flexdashboard
+title: ocs-school-shootings-flexdashboard
+username:
+account: carriewright11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2910019
+bundleId: 3684313
+url: https://carriewright11.shinyapps.io/ocs-school-shootings-flexdashboard/
+when: 1601403268.92371
+asMultiple: TRUE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: ocs-bp-school-shootings-dashboard
+title: ocs-bp-school-shootings-dashboard
+username:
+account: carriewright11
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2911834
+bundleId: 3684387
+url: https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/
+when: 1601404841.16316
+asMultiple: FALSE
+asStatic: FALSE
