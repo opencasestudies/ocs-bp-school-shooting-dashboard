@@ -3,7 +3,7 @@ This repository contains the code and data and image files for the [Open Case St
 
 The dashboard can be found at [https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/](https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/).
 
-For information on how this dashboard was created please see [this case study](https://opencasestudies.github.io/ocs-bp-school-shootings-dashboard/). The repository for this case study is located [here](https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard)
+For information on how this dashboard was created please see [this case study](https://opencasestudies.github.io/ocs-bp-school-shootings-dashboard/). The repository for this case study is located [here](https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard).
 
 
 ### Disclaimer 
