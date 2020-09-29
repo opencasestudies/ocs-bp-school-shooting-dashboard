@@ -1,4 +1,5 @@
 # OCS-bp-school-shooting-dashboard
+ 
 This repository contains the code and data and image files for the [Open Case Studies](https://opencasestudies.github.io/) School Shooting Dashboard.
 
 The dashboard can be found at [https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/](https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/).
