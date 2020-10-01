@@ -2,7 +2,7 @@
  
 This repository contains the code and data and image files for the [Open Case Studies](https://opencasestudies.github.io/) School Shooting Dashboard.
 
-The dashboard can be found at [https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/](https://carriewright11.shinyapps.io/ocs-bp-school-shootings-dashboard/).
+The dashboard can be found at [https://rsconnect.biostat.jhsph.edu/ocs-bp-school-shootings-dashboard/](https://rsconnect.biostat.jhsph.edu/ocs-bp-school-shootings-dashboard/).
 
 For information on how this dashboard was created please see [this case study](https://opencasestudies.github.io/ocs-bp-school-shootings-dashboard/). The repository for this case study is located [here](https://github.com/opencasestudies/ocs-bp-school-shootings-dashboard).
 
@@ -27,7 +27,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 (
 
 To cite this case study:
 
-Wright, Carrie, and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020). https://github.com/opencasestudies/ocs-youth-school-shootings-dashboard-case-study. Fifty Years of School Shootings in the United States (Version v1.0.0).
+Wright, Carrie, and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020). https://github.com/opencasestudies/ocs-youth-school-shootings-dashboard-case-study. School Shootings in the United States (Version v1.0.0).
 
 ### Acknowledgements
 
