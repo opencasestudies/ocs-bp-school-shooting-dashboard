@@ -29,7 +29,7 @@ This work is licensed under the Creative Commons Attribution-NonCommercial 3.0 (
 
 To cite this case study:
 
-Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020). https://github.com/opencasestudies/ocs-youth-school-shootings-dashboard-case-study.  School Shootings in the United States (Version v1.0.0).
+Wright, Carrie and Ontiveros, Michael and Jager, Leah and Taub, Margaret and Hicks, Stephanie. (2020). https://www.opencasestudies.org/ocs-bp-school-shootings-dashboard/.  School Shootings in the United States (Version v1.0.0).
 
 ### Acknowledgements
 

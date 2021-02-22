@@ -31,9 +31,9 @@ library(DT)
 ```
 
 ```{r}
-shooting_data <- read_csv(here("shooting_data_pre_geo_wrangled.csv"))
+shooting_data <- read_csv(here("shooting_data_wrangled_pre_map.csv"))
 
-shooting_data_geocoded <- read_csv(here("shooting_data_wrangled.csv"))
+shooting_data_for_map <- read_csv(here("shooting_data_wrangled_for_map.csv"))
 ```
 
 About {data-icon="fa-question-circle"}
@@ -710,7 +710,7 @@ shooting_information0 <- paste('<div style="height:auto;line-height:1em;overflow
 ```{r}
 #Create the map!
 
-leaflet(shooting_data_geocoded) %>%
+leaflet(shooting_data_for_map) %>%
   addProviderTiles(provider = providers$OpenStreetMap, group = "OpenStreetMap") %>%
   addProviderTiles(provider = providers$Esri.WorldImagery, group = "ESRI World Imagery") %>%
   addProviderTiles(provider = providers$Stamen.TonerLite, group = "Toner")%>%
